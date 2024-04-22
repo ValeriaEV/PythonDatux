@@ -9,6 +9,7 @@
 #9. opcion 8 llamar a una funcion que devuelva el mayor de 2 numeros ingresados por teclado.
 #10. opcion 9 Salir. 
 
+
 def saludar():
     nombre = input("Ingrese su nombre: ")
     edad = input("Ingrese su edad: ")
